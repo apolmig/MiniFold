@@ -1,3 +1,4 @@
+## a clone project for health using only a 1 tesla k80 gpu during about 20h in the cloud.. lot of improvement to make so far
 # MiniFold
 ## Summary
 
